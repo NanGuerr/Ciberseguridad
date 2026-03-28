@@ -1,9 +1,3 @@
-Cuando una empresa (como LinkedIn, Adobe o Canva) sufre un hackeo masivo, los datos de los usuarios (correos y contraseñas) terminan en foros de la **Dark Web**. Herramientas como **Have I Been Pwned (HIBP)** recopilan estas bases de datos filtradas para que tú puedas saber si estás en peligro.
-
-Aquí tienes cómo hacer una auditoría de tu exposición paso a paso:
-
----
-
 ## 🕵️‍♂️ Paso 1: El Chequeo de Correo (HIBP)
 
 1.  Ve a [haveibeenpwned.com](https://haveibeenpwned.com).
