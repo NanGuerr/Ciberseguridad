@@ -18,6 +18,15 @@
 
 ---
 
+###💡 Un consejo de "Ciberseguridad adicional"
+si realizas compras por una App recuerda:
+
+No guardes tu tarjeta: Es mejor escribirla cada vez o usar Apple Pay/Google Pay.
+
+Borra el historial de direcciones: Si pides desde casas ajenas, limpia esas ubicaciones de la app para no dejar rastro de tus movimientos frecuentes.
+
+---
+
 ### 🚨 Regla de Oro en caso de Emergencia
 > Si sospechas que alguien ha entrado en una cuenta:
 > 1. **Cambia la contraseña** desde un dispositivo seguro.
