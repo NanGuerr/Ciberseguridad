@@ -18,7 +18,7 @@
 
 ---
 
-###💡 Un consejo de "Ciberseguridad adicional"
+💡 Un consejo de "Ciberseguridad adicional"
 si realizas compras por una App recuerda:
 
 No guardes tu tarjeta: Es mejor escribirla cada vez o usar Apple Pay/Google Pay.
