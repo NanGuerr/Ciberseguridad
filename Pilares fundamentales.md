@@ -1,5 +1,3 @@
----
-
 ## 🏗️ Los 3 Pilares: La Tríada de la CIA
 En seguridad informática, todo se resume en proteger tres cosas (en inglés *Confidentiality, Integrity, Availability*):
 
