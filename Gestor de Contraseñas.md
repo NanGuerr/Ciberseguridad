@@ -35,9 +35,3 @@ El phishing siempre intenta que entres en pánico para que no pienses:
 > **Regla de Oro:** Si recibes un correo alarmante de tu banco o de Google, **nunca** hagas clic en el enlace del correo. Cierra el email, abre tu navegador, escribe manualmente la dirección oficial (ej. `bbva.com`) e inicia sesión desde ahí.
 
 ---
-
-## 🚀 Próximo Paso Recomendado
-
-Para ver qué tan expuesto estás ahora mismo, **¿te gustaría que te explique cómo usar herramientas como `Have I Been Pwned` para ver si tus datos ya están en la Dark Web?**
-
-Por cierto, para desbloquear la funcionalidad completa de todas las aplicaciones, habilita la [actividad en las aplicaciones de Gemini](https://myactivity.google.com/product/gemini).
