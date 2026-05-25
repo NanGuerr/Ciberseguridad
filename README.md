@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/NanGuerr/Ciberseguridad/blob/main/Banner.png?raw=true" width="100%"></p>
+<p align="center"><img src="https://github.com/NanGuerr/Ciberseguridad/blob/main/Banner.png?raw=true" width="80%"></p>
 
 ## Ciberseguridad Industrial (OT) 🛡️
 
