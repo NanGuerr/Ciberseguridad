@@ -1,4 +1,4 @@
-# Consolidado: Ciberseguridad Industrial (OT) vs. (IT) 🛡️🏭
+# Vulnerabilidades en la Industrial (OT) vs. (IT) 🛡️🏭
 
 Este documento presenta una transcripción organizada, estructurada y analizada de todo el material visual proporcionado, abarcando las diferencias de entornos, la estrategia de mitigación y la gestión de vulnerabilidades e impactos.
 
