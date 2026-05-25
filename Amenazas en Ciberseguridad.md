@@ -63,41 +63,29 @@ Tradicionalmente, la seguridad informática (IT) se ha centrado en proteger la *
 * **Riesgos para la seguridad de las personas:** 🚑 Lesiones o accidentes laborales debidos al mal funcionamiento de los sistemas de control.
 * **Impacto medioambiental:** 🌊 Vertidos químicos, emisiones contaminantes u otros desastres provocados por la manipulación de los procesos.
 
----
+## 11. Adware 📺
 
-# 🧠 Análisis Técnico 📊
+**Adware** 💸
+El adware es un tipo de malware que muestra anuncios no deseados y agresivos en el ordenador de un usuario. Estos anuncios suelen aparecer en forma de ventanas emergentes (pop-ups), banners o dentro de la interfaz del navegador web. 🌐
+Aunque parte del adware puede ser molesto pero inofensivo, algunos tipos pueden recopilar información sobre los hábitos de navegación del usuario para mostrar anuncios dirigidos o incluso redirigir a sitios web maliciosos. 📈
 
-## 🛡️ 1. Taxonomía del Malware (Diferencias Clave) 🧬
+## 12. APT (Advanced Persistent Threat) 🦅
 
-El material expone de manera clara las sutiles pero vitales diferencias en el comportamiento del código malicioso, las cuales podemos clasificar según su **método de acción**:
+**APT (Amenaza Persistente Avanzada)** 🕵️‍♂️
+Una APT es un ataque cibernético altamente sofisticado y dirigido en el que un intruso (generalmente un grupo respaldado por un estado o una organización criminal organizada) establece una presencia ilícita y a largo plazo en una red para exfiltrar datos altamente sensibles. 🔒
+A diferencia del malware común, las APT se caracterizan por su persistencia, sigilo y el uso de técnicas avanzadas personalizadas para evadir los sistemas de detección tradicionales durante meses o años. 🗓️
 
-| Tipo de Malware 🦠 | ¿Necesita al Usuario? 👤 | ¿Se Replica / Propaga Solo? 🔄 | Objetivo Principal 🎯 |
-| --- | --- | --- | --- |
-| **Virus** 🧬 | 🟢 Sí (Abrir archivos) | 🟢 Sí (Infecta otros ejecutables) | Destrucción/Alteración de archivos locales. |
-| **Gusano** 🪱 | 🔴 No (Aprovecha la red) | 🟢 Sí (De forma automática) | Saturar redes y saltar de PC a PC. |
-| **Troyano** 🐴 | 🟢 Sí (Ingeniería social) | 🔴 No | Abrir puertas traseras silenciosamente. |
-| **RAT** 🕹️ | 🟢 Sí (Frecuente en troyanos) | 🔴 No | Control total y espionaje en tiempo real. |
-| **Ransomware** 🏴‍☠️ | Variable | Variable | Secuestro de datos y extorsión económica. |
-| **Spyware / Keylogger** 🔍 | Variable | 🔴 No | Exfiltración de credenciales y datos privados. |
+## 13. Backdoor 🚪
 
----
+**Backdoor (Puerta Trasera)** 🔑
+Una puerta trasera es un método para saltarse los procedimientos normales de autenticación o seguridad en un ordenador, producto de software o sistema embebido, permitiendo el acceso remoto no autorizado. 🖥️
+Las puertas traseras pueden ser instaladas de forma intencionada por los desarrolladores para tareas de mantenimiento o introducidas por atacantes mediante malware para asegurar su acceso continuo al sistema comprometido sin ser detectados. 👤
 
-## 🏭 2. El Salto al Entorno Industrial: IT vs. OT 🏢
+## 14. Cryptocurrency Mining Malware 🪙
 
-Las dos últimas láminas marcan el punto de inflexión del módulo: **La seguridad en entornos industriales no se maneja igual que en una oficina.** 🎛️
-
-### La Triada de Seguridad Invertida (CIA Triad) 📐
-
-* En **IT (Tecnologías de la Información)** 💻 se prioriza la **Confidencialidad** (que nadie lea los correos o datos bancarios).
-* En **OT (Tecnologías de la Operación / Fábricas)** ⚙️ se prioriza la **Disponibilidad** (que el PLC, la turbina o la planta de agua nunca se detengan).
-
-### 🚨 Consecuencias del Éxito del Malware en la Industria 💥
-
-Si un virus común entra a una oficina corporativa, el daño suele limitarse a la pérdida de archivos informáticos. Sin embargo, si ese mismo malware (o uno diseñado a medida, como el histórico *Stuxnet*) cruza la frontera hacia la red de control de la planta (donde viven los PLCs, los paneles SCADA y los bloques de comunicación que hemos visto en TIA Portal), los efectos pasan del mundo digital al **mundo físico**: 🏗️
-
-1. **La inercia destructiva:** 🌪️ Un cambio malicioso en un lazo de control PID puede forzar la apertura de una válvula de presión o apagar los sistemas de refrigeración de un reactor.
-2. **El peligro humano y ambiental:** ☣️ Las variaciones descontroladas de los actuadores pueden provocar explosiones, fugas tóxicas o fallos mecánicos que amenazan vidas y ecosistemas.
+**Cryptocurrency Mining Malware (Cryptojacking)** 🛠️
+El malware de minería de criptomonedas es un tipo de software malicioso que infecta un dispositivo y utiliza sus recursos de hardware (como la CPU y la GPU) de forma no autorizada para minar criptomonedas para los atacantes. 🖥️💥
+Este tipo de ataque ralentiza significativamente el rendimiento del sistema de la víctima, aumenta el consumo de energía eléctrica y puede provocar daños físicos en el hardware debido al sobrecalentamiento continuo. 🌡️
 
 ---
 
-Este material sirve como un excelente marco teórico 📚 para entender por qué los controladores industriales modernos (como la familia S7-1500 de Siemens) integran hoy en día funciones avanzadas de protección de acceso, contraseñas de bloque y firmas digitales para repeler este tipo de ataques. 🛡️
