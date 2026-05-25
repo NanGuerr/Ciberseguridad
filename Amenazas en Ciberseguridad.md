@@ -1,4 +1,4 @@
-# 📋 Transcripción Completa de las Imágenes
+# 📋 Amenazas en Ciberseguridad
 
 ## 1. Concepto General 🪓
 
