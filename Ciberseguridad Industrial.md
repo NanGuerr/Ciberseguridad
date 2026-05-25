@@ -1,4 +1,9 @@
-# 🧠 Análisis Técnico 📊 
+# Ciberseguridad Industrial: Concepto Base 🏭
+
+**Ciberseguridad Industrial** 🔒
+Es el conjunto de prácticas, tecnologías y metodologías diseñadas para proteger las redes, computadoras, programas y datos de los entornos industriales (sistemas de control industrial - ICS) contra ataques, daños o accesos no autorizados. 🛡️
+A diferencia de la ciberseguridad corporativa (IT), la ciberseguridad industrial (OT) se enfoca en la continuidad operativa, la integridad de los procesos y la seguridad de las personas y el medio ambiente. 🌳👷‍♂️
+
 ## 🛡️ 1. Taxonomía del Malware (Diferencias Clave) 🧬
 
 El material expone de manera clara las sutiles pero vitales diferencias en el comportamiento del código malicioso, las cuales podemos clasificar según su **método de acción**:
