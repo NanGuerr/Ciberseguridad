@@ -74,6 +74,4 @@ La seguridad no termina con el acceso; el código mismo debe ser auditado autom�
 | **Código** | Activar Secret Scanning y Branch Protection. |
 | **Dependencias** | Mantener Dependabot activo y configurado. |
 
----
 
-¿Te gustaría que profundizara en cómo configurar las reglas de protección de ramas o en cómo gestionar los tokens de acceso de manera más segura para flujos de automatización (CI/CD)?
