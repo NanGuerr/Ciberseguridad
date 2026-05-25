@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/NanGuerr/Ciberseguridad/blob/main/Banner.png?raw=true" width="100%"></p>
+
 ## Ciberseguridad Industrial (OT) 🛡️
 
 ¡Bienvenido al repositorio central de **Ciberseguridad en Entornos Industriales**! Este espacio está diseñado para consolidar documentación técnica, marcos de referencia arquitectónicos, guías de robustecimiento (*hardening*) y herramientas de auditoría destinadas a proteger Sistemas de Control Industrial (ICS), SCADA y redes de Tecnologías de la Operación (OT).
