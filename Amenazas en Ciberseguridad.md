@@ -85,7 +85,4 @@ Las puertas traseras pueden ser instaladas de forma intencionada por los desarro
 
 **Cryptocurrency Mining Malware (Cryptojacking)** 🛠️
 El malware de minería de criptomonedas es un tipo de software malicioso que infecta un dispositivo y utiliza sus recursos de hardware (como la CPU y la GPU) de forma no autorizada para minar criptomonedas para los atacantes. 🖥️💥
-Este tipo de ataque ralentiza significativamente el rendimiento del sistema de la víctima, aumenta el consumo de energía eléctrica y puede provocar daños físicos en el hardware debido al sobrecalentamiento continuo. 🌡️
-
----
-
+Este tipo de ataque ralentiza significativamente el rendimiento del sistema de la víctima, aumenta el consumo de energía eléctrica y puede provocar daños físicos en el hardware debido al sobrecalentamiento continuo. 
